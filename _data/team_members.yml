@@ -1,0 +1,56 @@
+- name: Nathaniel (Nate) Chaney
+  photo: Nate.jpg
+  info: Assistant professor
+  email: nathaniel.chaney@duke.edu
+  number_educ: 3
+  education1: Postdoc, Princeton University/GFDL
+  education2: Ph.D., Princeton University
+  education3: B.A., U.C. Berkeley
+
+- name: Jason Simon
+  photo: Jason.jpg
+  info: Postdoc, started October 2019
+  email: jason.simon@duke.edu
+  number_educ: 3
+  education1: Ph.D., UC Berkeley
+  education2: M.S., NC State
+  education3: B.S., NC State
+
+- name: Laura Torres Rojas
+  #photo: Koen.jpg
+  info: Ph.D. Student, started August 2019
+  email: laura.torres@duke.edu
+  number_educ: 2
+  education1: M.S., Universidad de los Andes
+  education2: B.S., Universidad de los Andes
+
+- name: Tyler Waterman
+  #photo: Maarten.png
+  info: Ph.D. Student, started August 2019.
+  email: tyler.waterman@duke.edu
+  number_educ: 1
+  education1: B.S., UC Berkeley
+
+- name: Emma Xu
+  photo: Emma.jpg
+  info: Masters Student, started August 2018
+  email: chengcheng.xu@duke.edu
+  number_educ: 1
+  education1: B.E., China Agricultural University
+
+- name: Jiaxuan Cai
+  #photo: Emma.jpg
+  info: Masters Student, started August 2019
+  email: jiaxuan.cai@duke.edu
+  #number_educ: 1
+  #education1: B.E., China Agricultural University
+
+- name: Elena Waechter
+  #photo: website_pic_willem.jpg
+  info: Undergraduate student
+  email: elena.waechter@duke.edu
+
+- name: Tenzin Yangkey
+  #photo: tjeruk.jpg
+  info: Undergraduate student
+  email: tenzin.yangkey@duke.edu

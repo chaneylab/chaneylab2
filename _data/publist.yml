@@ -1,0 +1,149 @@
+- title: "POLARIS soil properties: 30-meter probabilistic maps of soil properties over the contiguous United States"
+  authors: Chaney, N.W., B. Minasny, J. D. Herman, T.W. Nauman, C.W. Brungard, C. L. S. Morgan, A. B. McBratney, E. F. Wood, Y. Yimam
+  year: 2019
+  journal: Water Resources Research
+  doi: https://doi.org/10.1029/2018WR022797
+
+- title: "Structures and functions of hillslope hydrology with relevance to Earth System Modeling: Syntheses and testable hypotheses"
+  authors: Fan, Y., M. Clark, D. Lawrence, S. Swenson, L. E. Band, S. Brantley, P. Brooks, W. Dietrich, A. Flores, G. Grant, J. Kirchner, D. Mackay, J. McDonnell, P. Milly, P. Sullivan, C. Tague, H. Ajami, N. Chaney, A. Hartmann, P. Hazenberg, J. McNamara, J. Pelletier, J. Perket, E. Rouholahnejad, T. Wagener, X. Zeng, R. E. Beighley, J. Buzan, M. Huang, B. Livneh, B. Mohanty, B. Nijssen, M. Safeeq, C. Shen, W. van Verseveld, J. Volk, D. Yamazaki
+  year: 2019
+  journal: Water Resources Research
+  doi: https://doi.org/10.1029/2018WR023903
+
+- title: "Unraveling location-specific and time-dependent interactions between soil water content and environmental factors in cropped sandy soils using Sentinel-1 and moisture probes"
+  authors: Huang, J., A. E. Hartenmink, F. Arriaga, N. W. Chaney
+  year: 2019
+  journal: Journal of Hydrology
+  doi: https://doi.org/10.1016/j.jhydrol.2019.05.075
+
+- title: "Harnessing Big Data to Rethink Land Heterogeneity in Earth System Models"
+  authors: Chaney, N. W., M. Van Huijgevoort, E. Shevliakova, S. Malyshev, P.C.D. Milly, P. Gauthier, B. Sulman
+  year: 2018
+  journal: Hydrology and Earth System Sciences
+  doi: https://doi.org/10.5194/hess-22-3311-2018
+
+- title: "Deriving Global Parameter Estimates for the Noah Land Surface Model using FLUXNET and Machine Learning"
+  authors: Chaney, N. W., J. D. Herman, M. Ek,  E. F. Wood
+  year: 2017
+  journal: Journal of Geophysical Research - Atmospheres
+  doi:  https://doi.org/10.1002/2016JD024821
+
+- title: "Sensitivity and Uncertainty of a Long Term, High-Resolution, Global, Terrestrial Sensible Heat Flux Dataset"
+  authors: Siemann, A., N. W., Chaney, N. W., E. F. Wood
+  year: 2019
+  journal: Journal of Geophysical Research - Atmospheres
+  doi:  https://doi.org/10.1029/2017JD027785
+
+- title: "Development and Validation of a Long Term, Global, Terrestrial Sensible Heat Flux Dataset"
+  authors: Siemann, A., N. W. Chaney, E. F. Wood
+  year: 2018
+  journal: Journal of Climate
+  doi: https://doi.org/10.1175/JCLI-D-17-0732.1
+
+- title: "Validation of SMAP soil moisture for the SMAPVEX15 field campaign using a hyper-resolution model"
+  authors: Cai, X., M. Pan, N. W. Chaney, A. Colliander, S. Misra, M. H. Cosh, W. T. Crow, T. J. Jackson, E. F. Wood
+  year: 2017
+  journal: Water Resources Research
+  doi: https://doi.org/10.1002/2016WR019967
+
+- title: "HydroBlocks: A Field-scale Resolving Land Surface Model for Application Over Continental Extents"
+  authors: Chaney, N. W., P. Metcalfe,  E. F. Wood
+  year: 2017
+  journal: Hydrological Processes
+  doi: https://doi.org/10.1002/hyp.10891
+
+- title: "POLARIS: A 30-meter probabilistic soil series map of the contiguous United States"
+  authors: Chaney, N. W., E. F. Wood, J. W. Hempel,  A. McBratney, T. Nauman, C. Brungard, N. Odgers
+  year: 2016
+  journal: Geoderma
+  doi: https://doi.org/10.1016/j.geoderma.2016.03.025	
+
+- title: "An Initial Assessment of SMAP Soil Moisture Retrievals Using High Resolution Model Simulations and In-situ Observations"
+  authors: Pan, M., X. Cai, N. W. Chaney, D. Entekhabi, E. F. Wood
+  year: 2016
+  journal: Geophysical Research Letters
+  doi: https://doi.org/10.1002/2016GL069964
+
+- title: "Spatial Downscaling of Precipitation using Adaptable Random Forests"
+  authors: He, X., N. W. Chaney, M. Schleiss, J. Sheffield
+  year: 2016
+  journal: Water Resources Research
+  doi: https://doi.org/10.1002/2016WR019034
+
+- title: "Reconciling agriculture, carbon, and biodiversity in a savanna transformation frontier"
+  authors: Estes, L. D., Searchinger, T., Spiegel, M., Tian, D., Sichinga, S., Mwale, M., Kehoe, L., Kuemmerle, T., Berven A., Chaney, N., Sheffield, J., Wood, E. F., Caylor, K. K
+  year: 2016
+  journal: Philosophical Transactions B.
+  doi: https://doi.org/10.1098/rstb.2015.0316
+
+- title: "High-Resolution Modeling of the Spatial Heterogeneity of Soil Moisture: Applications in Network Design"
+  authors: Chaney, N. W., J. K. Roundy, Julio E. Herrera Estrada, E. F. Wood
+  year: 2015
+  journal: Water Resources Research
+  doi: https://doi.org/10.1002/2013WR014964
+
+- title: "Flood and Drought Hydrologic Monitoring: The Role of Model Parameter Uncertainty"
+  authors: Chaney, N. W., J. D. Herman, P. M. Reed, E. F. Wood
+  year: 2015
+  journal: Hydrology and Earth System Sciences
+  doi: https://doi.org/10.5194/hess-19-3239-2015
+
+- title: "Triple collocation: Beyond three estimates and separation of structural/non-structural errors"
+  authors: Pan, M., Fisher, C. K., Chaney, N. W., Zhan, W., Crow, W. T., Aires, F., Entekhabi, D., Wood, E. F
+  year: 2015
+  journal: Remote Sensing of Environment
+  doi: https://doi.org/10.1016/j.rse.2015.10.028
+
+- title: "Internationally Coordinated Multi-Mission Planning is Critical for Space-based Rainfall Observations to Aid Flood Risk Adaptation"
+  authors: Reed, P. M., N. W. Chaney, J. D. Herman, M. P. Ferringer, E. F. Wood
+  year: 2015
+  journal: Environmental Research Letters
+  doi: https://doi.org/10.1088/1748-9326/10/2/024010
+
+- title: "Development of a High-Resolution Gridded Daily Meteorological Dataset over Sub-Saharan Africa: Spatial Analysis of Trends in Climate Extremes"
+  authors: Chaney, N. W., J. Sheffield, G. Villarini, E. F. Wood
+  year: 2014
+  journal: Journal of Climate
+  doi: https://doi.org/10.1175/JCLI-D-13-00423.1
+
+- title: "Hyper-resolution global hydrological modelling: what's next?"
+  authors: Bierkens, M., V. A. Bell, P. Burek, N. W. Chaney, L. Condon, C. H. David, A. Roo, P. Doll, N. Drost, J. S. Famiglietti, M. Florke, D. J. Gochis, P. House, R. Hut,  J. Keune, S. Kollet, R. Maxwell, J. T. Reager, L. Samaniego, E. Sudicky, E. H. Sutanudjaja, N. Gielsen, H. Winsemius, E. F. Wood.
+  year: 2014
+  journal: Hydrological Processes
+  doi: https://doi.org/10.1002/hyp.10391
+
+- title: "Changing Water Availability during the African maize-growing season"
+  authors: Estes, L. D., N. W. Chaney, J. Herrera-Estrada, K. K. Caylor, J.  Sheffield, E. F. Wood
+  year: 2014
+  journal: Environmental Research Letters
+  doi: https://doi.org/10.1088/1748-9326/9/7/075005
+
+- title: "Evaluation of multi-model simulated soil moisture in NLDAS-2"
+  authors: Xia, Y., J. Sheffield, M. B. Ek, J. Dong, N. W. Chaney, H. Wei, J. Meng, E. F. Wood
+  year: 2014
+  journal: Journal of Hydrology
+  doi: https://doi.org/10.1016/j.jhydrol.2014.02.027
+
+- title: "Drought and food security-Improving decision-support via new technologies and innovative collaboration"
+  authors: Enenkel, M., L. See, R. Bonifacio, V. Boken, {\bf N. W. Chaney}, P. Vinck, L. You, E. Dutra, M. Anderson
+  year: 2014
+  journal: Global Food Security
+  doi: https://doi.org/10.1016/j.gfs.2014.08.005
+
+- title: "Probabilistic Seasonal Forecasting of African Drought by Dynamical Models"
+  authors: Yuan, X., E. F. Wood, N. W. Chaney, J. Sheffield, J. Kam, M. Liang, and K. Guan
+  year: 2013
+  journal:  Hydrometeorology
+  doi: https://doi.org/10.1175/JHM-D-13-054.1
+
+- title: "A Drought Monitoring and Forecasting System for Sub-Sahara African Water Resources and Food Security"
+  authors: Sheffield, J., E. F. Wood, N. W. Chaney, K. Guan, S. Sadri, X. Yuan, L. Olang, A. Amani, A. Ali, S. Demuth, and L. Ogallo
+  year: 2013
+  journal: Bulletin of the American Meteorological Society
+  doi: https://doi.org/10.1175/BAMS-D-12-00124.1
+
+- title: "Multi-site evaluation of terrestrial evapotranspiration models using FLUXNET data"
+  authors: Ershadi, A., M.F. McCabe, J. P. Evans, N. W. Chaney, E. F. Wood
+  year: 2013
+  journal: Agricultural and Forest Meteorology
+  doi: https://doi.org/10.1016/j.agrformet.2013.11.008

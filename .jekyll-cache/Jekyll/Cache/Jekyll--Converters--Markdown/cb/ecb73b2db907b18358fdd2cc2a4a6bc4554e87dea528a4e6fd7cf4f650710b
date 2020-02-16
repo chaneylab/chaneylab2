@@ -1,0 +1,202 @@
+I"ì<h1 id="group-members">Group Members</h1>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <p><img src="http://localhost:4000/images/teampic/Nate.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4>Nathaniel (Nate) Chaney</h4>
+    <p><i>Assistant professor<br />email: <a href="mailto:nathaniel.chaney@duke.edu">nathaniel.chaney@duke.edu</a></i></p>
+    <ul style="overflow: hidden">
+
+  
+
+  
+
+  
+  <li> Postdoc, Princeton University/GFDL </li>
+  <li> Ph.D., Princeton University </li>
+  <li> B.A., U.C. Berkeley </li>
+  
+
+  
+
+  
+
+  </ul>
+  </div>
+
+  <div class="col-sm-6 clearfix">
+    <p><img src="http://localhost:4000/images/teampic/Jason.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4>Jason Simon</h4>
+    <p><i>Postdoc, started October 2019<br />email: <a href="mailto:jason.simon@duke.edu">jason.simon@duke.edu</a></i></p>
+    <ul style="overflow: hidden">
+
+  
+
+  
+
+  
+  <li> Ph.D., UC Berkeley </li>
+  <li> M.S., NC State </li>
+  <li> B.S., NC State </li>
+  
+
+  
+
+  
+
+  </ul>
+  </div>
+
+</div>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <p><img src="http://localhost:4000/images/teampic/" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4>Laura Torres Rojas</h4>
+    <p><i>Ph.D. Student, started August 2019<br />email: <a href="mailto:laura.torres@duke.edu">laura.torres@duke.edu</a></i></p>
+    <ul style="overflow: hidden">
+
+  
+
+  
+  <li> M.S., Universidad de los Andes </li>
+  <li> B.S., Universidad de los Andes </li>
+  
+
+  
+
+  
+
+  
+
+  </ul>
+  </div>
+
+  <div class="col-sm-6 clearfix">
+    <p><img src="http://localhost:4000/images/teampic/" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4>Tyler Waterman</h4>
+    <p><i>Ph.D. Student, started August 2019.<br />email: <a href="mailto:tyler.waterman@duke.edu">tyler.waterman@duke.edu</a></i></p>
+    <ul style="overflow: hidden">
+
+  
+  <li> B.S., UC Berkeley </li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  </ul>
+  </div>
+
+</div>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <p><img src="http://localhost:4000/images/teampic/Emma.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4>Emma Xu</h4>
+    <p><i>Masters Student, started August 2018<br />email: <a href="mailto:chengcheng.xu@duke.edu">chengcheng.xu@duke.edu</a></i></p>
+    <ul style="overflow: hidden">
+
+  
+  <li> B.E., China Agricultural University </li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  </ul>
+  </div>
+
+  <div class="col-sm-6 clearfix">
+    <p><img src="http://localhost:4000/images/teampic/" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4>Elena Waechter</h4>
+    <p><i>Undergraduate student<br />email: <a href="mailto:elena.waechter@duke.edu">elena.waechter@duke.edu</a></i></p>
+    <ul style="overflow: hidden">
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  </ul>
+  </div>
+
+</div>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <p><img src="http://localhost:4000/images/teampic/" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4>Tenzin Yangkey</h4>
+    <p><i>Undergraduate student<br />email: <a href="mailto:tenzin.yangkey@duke.edu">tenzin.yangkey@duke.edu</a></i></p>
+    <ul style="overflow: hidden">
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  </ul>
+  </div>
+
+</div>
+
+<!--## Master and Bachelor Students
+
+
+
+
+-->
+
+<!--## Alumni
+
+
+
+
+
+-->
+
+<!--
+## Former visitors, BSc/ MSc students
+<div class="row">
+
+<div class="col-sm-4 clearfix">
+<h4>Visitors</h4>
+
+</div>
+
+<div class="col-sm-4 clearfix">
+<h4>Master students</h4>
+
+</div>
+
+<div class="col-sm-4 clearfix">
+<h4>Bachelor Students</h4>
+
+</div>
+
+</div>-->
+:ET
