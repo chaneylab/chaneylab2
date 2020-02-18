@@ -31,7 +31,7 @@ We are a computational hydrology research group in the Department of Civil and E
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/clustering.jpg" alt="Slide 3" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/elevation.jpg" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/escape_room_2020.jpg" alt="Slide 4" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
