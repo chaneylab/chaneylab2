@@ -1,8 +1,5 @@
-bold:
-- Chaney
-
-- title: "POLARIS1234 soil properties: 30-meter probabilistic maps of soil properties over the contiguous United States"
-  authors: Chaney, N.W., B. Minasny, J. D. Herman, T.W. Nauman, C.W. Brungard, C. L. S. Morgan, A. B. McBratney, E. F. Wood, Y. Yimam
+- title: "POLARIS soil properties: 30-meter probabilistic maps of soil properties over the contiguous United States"
+  authors: **Chaney, N.W.**, B. Minasny, J. D. Herman, T.W. Nauman, C.W. Brungard, C. L. S. Morgan, A. B. McBratney, E. F. Wood, Y. Yimam
   year: 2019
   journal: Water Resources Research
   doi: https://doi.org/10.1029/2018WR022797
