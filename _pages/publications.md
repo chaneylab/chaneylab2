@@ -55,7 +55,7 @@ permalink: /publications/
 
 {% for publi in site.data.publist %}
 
-{{ publi.authors}}, {{ publi.year}}, {{ publi.title }}, {{publi.journal}}, <em><a href="{{publi.doi}}">{{publi.doi}}</a></em>
+{{ publi.authors}}, {{ publi.year}}, <a href="{{publi.doi}}">{{ publi.title}}</a>, {{publi.journal}}
   <!--{{ publi.title }}, {{ publi.year}} <br />
   <em>{{ publi.authors }} </em><br />-->
 
