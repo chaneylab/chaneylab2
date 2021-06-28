@@ -46,4 +46,4 @@ We are a computational hydrology research group in the Department of Civil and E
 
 The Chaney lab focuses on three themes: 1) rethink land heterogeneity in Earth system models 2) harness environmental data to characterize the observed heterogeneity over land, and 3) assess the sensitivity of the water, energy, and biogeochemical cycles to land heterogeneity. The tools that we use include numerical modeling, satellite remote sensing, cluster analysis, supervised learning, and high performance computing
 
- **We are currently looking for passionate new Postdocs and PhD students to join the team**. If you are interested please send your CV to Nate at nathaniel.chaney@duke.edu.
+[//]: # **We are currently looking for passionate new Postdocs and PhD students to join the team**. If you are interested please send your CV to Nate at nathaniel.chaney@duke.edu.
