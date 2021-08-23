@@ -10,6 +10,8 @@
 - name: Jason Simon
   photo: Jason.jpg
   info: Postdoc, started October 2019
+  bio: Atmospheric modeler specializing in large-eddy simulation of the atmospheric boundary layer; currently focused on heterogeneous land/atmosphere coupling.
+  keywords: large-eddy simulation; boundary layer; land/atmosphere coupling
   email: jason.simon@duke.edu
   number_educ: 3
   education1: Ph.D., U.C. Berkeley
@@ -19,6 +21,8 @@
 - name: Laura Torres Rojas
   photo: Laura.jpg
   info: Ph.D. Student, started August 2019
+  bio: Looking for new and efficient ways to represent small-scale heterogeneity in land surface models. Currently working with HydroBlocks LSM.
+  keywords: heterogeneity; hydrology; earth system modeling
   email: laura.torres@duke.edu
   number_educ: 2
   education1: M.S., Universidad de los Andes
@@ -28,29 +32,51 @@
   photo: Tyler.jpg
   info: Ph.D. Student, started August 2019.
   email: tyler.waterman@duke.edu
+  bio: Hydrologist with a name fit for the field interested in how to effectively couple the land surface to the atmosphere.
+  keywords: land/atmosphere coupling; surface heterogeneity; single column models; eddy flux towers
   number_educ: 1
   education1: B.S., U.C. Berkeley
 
 - name: Emma Xu
   photo: Emma.jpg
-  info: Masters Student, started August 2018
+  info: Ph.D. Student, started August 2020
+  bio: Life-long learner from China living my best life as a future hydrologist
+  keywords: soil hydrology; land heterogeneity; digital soil mapping
   email: chengcheng.xu@duke.edu
-  number_educ: 1
-  education1: B.E., China Agricultural University
+  number_educ: 2
+  education1: M.S., Duke University
+  education2: B.E., China Agricultural University
 
 - name: Jiaxuan Cai
   #photo: Emma.jpg
-  info: Masters Student, started August 2019
+  info: Ph.D. Student, started August 2021
   email: jiaxuan.cai@duke.edu
-  #number_educ: 1
-  #education1: B.E., China Agricultural University
+  #number_educ: 2
+  #education1: M.S., Duke University
+  #education2: B.E., China Agricultural University
+  
+- name: Luiz Bacelar
+  photo: Luiz.jpg
+  info: Ph.D. Student, started March 2021
+  keywords: distributed hydrological models; flash flood mapping; flood risk management
+  email: luiz.bacelar@duke.edu
+  number_educ: 2
+  education1: M.S., National Institute for Space Research
+  education2: B.S., Federal University of Pelotas
+  
+- name: Daniel Guyumus
+  info: Ph.D. Student, started August 2021
+  email: daniel.guyumus.preciado@duke.edu
+  nuber_educ: 2
+  education1: M.S., Universidad de los Andes
+  education2: B.S., Universidad del Quindio 
 
-- name: Elena Waechter
-  photo: Elena.jpg
-  info: Undergraduate student
-  email: elena.waechter@duke.edu
+#- name: Elena Waechter
+#  photo: Elena.jpg
+#  info: Undergraduate student
+#  email: elena.waechter@duke.edu
 
-- name: Tenzin Yangkey
+#- name: Tenzin Yangkey
   #photo: tjeruk.jpg
-  info: Undergraduate student
-  email: tenzin.yangkey@duke.edu
+#  info: Undergraduate student
+#  email: tenzin.yangkey@duke.edu
