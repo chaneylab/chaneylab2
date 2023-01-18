@@ -1,12 +1,48 @@
+- title: "Towards an Optimal Representation of Sub-Grid Heterogeneity in Land Surface Models"
+  authors: <b>Torres-Rojas L.</b>, Vergopolan, N., Herman, J., <b>Chaney, N.</b>
+  year: 2022
+  journal: Water Resources Research
+  doi: https://doi.org/10.1029/2022WR032233
+
+- title: "Representing surface heterogeneity in land–atmosphere coupling in E3SMv1 single-column model over ARM SGP during summertime"
+  authors: Huang, M., Ma, P.-L., <b>Chaney, N. W.</b>, Hao, D., Bisht, G., Fowler, M. D., Larson, V. E., Leung, L. R.
+  year: 2022
+  journal: Geoscientific Model Development
+  doi: https://doi.org/10.5194/gmd-15-6371-2022
+
+- title: "Examining Parameterizations of Potential Temperature Variance Across Varied Landscapes for use in Earth System Models"
+  authors: <b>Waterman, T.</b>, Bragg, A., Katul, G., <b>Chaney, N.W.</b>
+  year: 2022
+  journal: Journal of Geophysical Research: Atmospheres
+  doi: https://doi.org/10.1029/2021JD036236
+
+- title: "High resolution soil moisture data reveal complex multi-scale spatial variability across the United States"
+  authors: Vergopolan, N., Shefield, J., <b>Chaney, N. W.</b>, Pan, M., Beck, H. E., <b>Torres-Rojas, L.</b>, Wood, E. F.
+  year: 2022
+  journal: Geophysical Research Leters
+  doi: https://doi.org/10.1029/2022GL098586
+
+- title: "HydroBlocks v0.2: Enabling a Field-scale two-way coupling between the land surface and river networks in Earth system models"
+  authors: <b>Chaney, N.W.</b>, <b>Torres-Rojas, L.</b>, Vergopolan, N., Fisher, C.
+  year: 2021
+  journal: Geophysical Model Development
+  doi: https://doi.org/10.5194/gmd-14-6813-2021
+
+- title: "Semi-coupling of a Field-scale Resolving Landsurface Model and WRF-LES to Investigate the In.uence of Land-surface Heterogeneity on Cloud"
+  authors: <b>Simon, J.</b>, Bragg, A., Dirmeyer, P. <b>Chaney, N. W.</b>
+  year: 2021
+  journal: Journal of Advances in Modeling Earth System
+  doi: https://doi.org/10.1029/2021MS002602
+  
 - title: "SMAP-HydroBlocks, a 30-m satellite-based soil moisture dataset for the conterminous US"
-  authors: Vergopolan, N., Chaney, N. W., Pan, M., She.eld, J., Beck, H., Ferguson, C., Torres-Rojas, L., Sadri, S.,
+  authors: Vergopolan, N., <b>Chaney, N. W.</b>, Pan, M., Shefield, J., Beck, H., Ferguson, C., Torres-Rojas, L., Sadri, S.,
 Wood, E. F.
   year: 2021
   journal: Scientific Data
   doi: https://doi.org/10.1038/s41597-021-01050-2
 
 - title: "Pedotransfer functions for estimating soil hydraulic properties from saturation to dryness"
-  authors: Rudiyanto, R., Minasny, Chaney, N. W., B., Maggi, F., Eng, S., Shah, R., Fiantis, D., Setiawan, B
+  authors: Rudiyanto, R., Minasny, <b>Chaney, N. W.</b>, B., Maggi, F., Eng, S., Shah, R., Fiantis, D., Setiawan, B
   year: 2021
   journal: Geoderma
   doi: https://doi.org/10.1016/j.geoderma.2021.115194
