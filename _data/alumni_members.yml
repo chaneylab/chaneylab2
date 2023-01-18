@@ -1,6 +1,7 @@
 - name: Jason Simon
   photo: Jason.jpg
-  info: Postdoc, started October 2019
+  info: Postdoc
+  duration: October 2019 to August 2022
   bio: Atmospheric modeler specializing in large-eddy simulation of the atmospheric boundary layer; currently focused on heterogeneous land/atmosphere coupling.
   keywords: large-eddy simulation; boundary layer; land/atmosphere coupling
   email: jason.simon@duke.edu
