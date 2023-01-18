@@ -48,12 +48,14 @@
   education2: B.E., China Agricultural University
 
 - name: Jiaxuan Cai
-  #photo: Emma.jpg
+  photo: Jiaxuan.jpg
   info: Ph.D. Student, started August 2021
+  bio: Currently working on the impacts of dust on snow with WRF-Chem and CTSM
+  keywords: earth system modeling; surface heterogeneity; land surface temperature; dust on snow
   email: jiaxuan.cai@duke.edu
-  #number_educ: 2
-  #education1: M.S., Duke University
-  #education2: B.E., China Agricultural University
+  number_educ: 2
+  education1: M.S., Duke University
+  education2: B.E., Renmin University of China
   
 - name: Luiz Bacelar
   photo: Luiz.jpg
@@ -65,11 +67,23 @@
   education2: B.S., Federal University of Pelotas
   
 - name: Daniel Guyumus
+  photo: Daniel.jpeg
   info: Ph.D. Student, started August 2021
+  bio: Civil Engineer from Colombia, interested in groundwater representation in LSM.
+  keywords: land surface heterogeneity; groundwater; hydrology
   email: daniel.guyumus.preciado@duke.edu
   nuber_educ: 2
   education1: M.S., Universidad de los Andes
   education2: B.S., Universidad del Quindio 
+
+- name: Sarah Bailey
+  photo: Sarah.jpg
+  info: Undergraduate Student, started August 2022
+  bio: Undergraduate interested in modeling effects of urban heat island on local precipitation and learning more about Earth system models
+  keywords: urban heat island; heterogeneity; hydrology
+  email: sarah.a.bailey@duke.edu
+  number_educ: 1
+  education1: (in progress) B.S. Civil Engineering -- Water Resources
 
 #- name: Elena Waechter
 #  photo: Elena.jpg
