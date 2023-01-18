@@ -1,3 +1,35 @@
+- title: "SMAP-HydroBlocks, a 30-m satellite-based soil moisture dataset for the conterminous US"
+  authors: Vergopolan, N., Chaney, N. W., Pan, M., She.eld, J., Beck, H., Ferguson, C., Torres-Rojas, L., Sadri, S.,
+Wood, E. F.
+  year: 2021
+  journal: Scientific Data
+  doi: https://doi.org/10.1038/s41597-021-01050-2
+
+- title: "Pedotransfer functions for estimating soil hydraulic properties from saturation to dryness"
+  authors: Rudiyanto, R., Minasny, Chaney, N. W., B., Maggi, F., Eng, S., Shah, R., Fiantis, D., Setiawan, B
+  year: 2021
+  journal: Geoderma
+  doi: https://doi.org/10.1016/j.geoderma.2021.115194
+
+- title: "Comparison of two bias correction methods for TRMM Satellite daily rainfall estimates over Northern Tunisia"
+  authors: Dhib, S., <b>Chaney, N.W.</b>, Mannaerts, C. M., Bargaoui, Z.
+  year: 2021
+  journal: Arabian Journal of Geosciences
+  doi: https://doi.org/10.1007/s12517-021-06916-8
+
+- title: "Field-scale soil moisture bridges the spatial-scale gap between drought monitoring and agricultural yields"
+  authors: Vergopolan, N., Xiong, S., Estes, L., Wanders, <b>N., Chaney</b>, N. W., Wood, E. F., Konar, M., Caylor, K., Beck,
+H. E., Ga.i, N., Evans, T., She.eld, J.
+  year: 2021
+  journal: Hydrology and Earth System Sciences
+  doi: https://doi.org/10.5194/hess-25-1827-2021
+
+- title: "Combining hyper-resolution land surface modeling with SMAP brightness temperatures to obtain 30-m soil moisture estimates"
+  authors: Vergopolan N., <b>Chaney, N.</b> W., Beck, H. E., Pan, M., She.eld, J.
+  year: 2020
+  journal: Remote Sensing of the Environment
+  doi: https://doi.org/10.1016/j.rse.2020.111740 
+
 - title: "POLARIS soil properties: 30-meter probabilistic maps of soil properties over the contiguous United States"
   authors: <b>Chaney, N.W.</b>, B. Minasny, J. D. Herman, T.W. Nauman, C.W. Brungard, C. L. S. Morgan, A. B. McBratney, E. F. Wood, Y. Yimam
   year: 2019
